@@ -1,7 +1,4 @@
-Hello world
+## Hello world
 
-Test 3
-
-Why
-
-Oh why
+* [Recipes](/recipes/index)
+* Possibly some other stuff IDK

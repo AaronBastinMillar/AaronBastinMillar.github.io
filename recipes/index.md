@@ -1,0 +1,7 @@
+## Recipes
+
+### Carnivorous
+
+### Vegetarian
+
+### Desserts
